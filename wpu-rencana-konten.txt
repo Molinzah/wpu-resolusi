@@ -6,5 +6,6 @@
  menikah
  *bersama olin
  php
+ *pemberi harapan palsu
  vlog
  makan
